@@ -1,4 +1,4 @@
-const datosProductos = [
+const productos = [
   {
     id: 1,
     nombre: "Portátil",
